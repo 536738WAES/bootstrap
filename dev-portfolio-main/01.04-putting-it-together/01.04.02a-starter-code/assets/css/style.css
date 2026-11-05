@@ -46,7 +46,7 @@ h2 {
 #hero {
     background-color: #dbdcde;
     /* light grey */
-    background-image: url("assets/images/hero-bg.jpg");
+    background-image: url("../images/background.webp");
     background-size: cover;
     background-position: 50% 70%;
     min-height: 500px;
